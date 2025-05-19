@@ -15,7 +15,7 @@ A sleek, production-ready Web3 platform to **create and launch SPL tokens** on t
 - 🖼 Upload logo, name, symbol, description
 - 🌀 Smooth animations with Framer Motion
 - 📈 Live dashboard to see launched tokens (WIP)
-- ☁️ Deployed on Vercel (see below)
+
 
 ---
 
@@ -34,13 +34,6 @@ A sleek, production-ready Web3 platform to **create and launch SPL tokens** on t
 
 ---
 
-## 🚀 Live Demo
-
-👉 [**Launchpad Demo**](https://your-vercel-link.vercel.app)
-
-> ⚠️ Uses Solana Devnet — switch wallet network.
-
----
 
 ## 📦 Getting Started
 
