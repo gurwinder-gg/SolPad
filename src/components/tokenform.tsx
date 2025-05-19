@@ -22,6 +22,7 @@ export const TokenForm = () => {
       toast.dismiss();
     }
   };
+  const [tier, setTier] = useState<'free' | 'premium'>('free');
 
   return (
     <div className="max-w-md mx-auto mt-10 bg-gray-900 p-6 rounded-xl shadow-lg space-y-4">
