@@ -1,0 +1,5 @@
+/solana-token-launchpad
+├── .env.local        ✅ ← YOU create this
+├── src/
+├── package.json
+├── next.config.js
