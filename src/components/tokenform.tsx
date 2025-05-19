@@ -23,6 +23,10 @@ export const TokenForm = () => {
     }
   };
   const [tier, setTier] = useState<'free' | 'premium'>('free');
+  if (tier === 'premium') {
+  const uri = await uploadMetadata(wallet, connection, metadata);
+  // Use `uri` in token mint
+}
 
   return (
     <div className="max-w-md mx-auto mt-10 bg-gray-900 p-6 rounded-xl shadow-lg space-y-4">
