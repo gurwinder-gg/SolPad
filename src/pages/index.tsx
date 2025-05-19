@@ -97,6 +97,18 @@ const Home = () => {
               />
             </>
           )}
+          const mintToken = async () => {
+  try {
+    const connection = new Connection(process.env.NEXT_PUBLIC_RPC!, 'confirmed');
+    const fromWallet = anchorWallet?.publicKey;
+
+    if (!fromWallet) throw new Error('Wallet not connected');
+    // Minting logic goes here...
+
+  } catch (error) {
+    console.error('Mint error:', error);
+  }
+};
 
           <button
             onClick={handleMint}
