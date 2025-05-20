@@ -1,8 +1,8 @@
-# 🚀 Solana Token Launchpad
+# 🚀 Solana Token Launchpad - SolPad
 
 A sleek, production-ready Web3 platform to **create and launch SPL tokens** on the Solana blockchain — in just a few clicks.
 
-> 👨‍💻 Built by: [Your Name] — ECE Undergrad | Web3 Builder  | IIM Bangalore Web3 Intern
+> 👨‍💻 Built by: Gurwinder Singh — ECE Undergrad | Web3 Builder  | IIM Bangalore Web3 Intern
 
 ---
 
