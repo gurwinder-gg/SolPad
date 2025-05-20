@@ -8,10 +8,10 @@ A sleek, production-ready Web3 platform to **create and launch SPL tokens** on t
 
 ## ✨ Features
 
-- 🔐 Connect Solana Wallet (Phantom, Solflare, Backpack)
-- 🪙 Mint Real SPL Tokens (on Devnet/Mainnet)
+- 🔐 Connect Solana Wallet (Phantom, Solflare, Backpack)(WIP)
+- 🪙 Mint Real SPL Tokens (on Devnet/Mainnet) (WIP)
 - 🧠 Premium Plan with Arweave-hosted Metadata via Metaplex (WIP)
-- 🆓 Free Tier for basic token creation
+- 🆓 Free Tier for basic token creation (WIP)
 - 🖼 Upload logo, name, symbol, description (WIP)
 - 🌀 Smooth animations with Framer Motion (WIP)
 - 📈 Live dashboard to see launched tokens (WIP)
@@ -29,8 +29,7 @@ A sleek, production-ready Web3 platform to **create and launch SPL tokens** on t
 | Mint Logic  | @solana/web3.js, @solana/spl-token |
 | Metadata    | Metaplex JS SDK + Arweave     |
 | Storage     | Bundlr + NFT.storage          |
-| Notify      | react-hot-toast               |
-| Hosting     | Vercel                        |
+| Notify      | react-hot-toas                |
 
 ---
 
